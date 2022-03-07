@@ -1,10 +1,11 @@
-# ![Coursera Advisor logo](images/logo_48.png) Coursera Advisor
+# ![Coursera Advisor logo](images/logo_48.png) Starithm
+<sub>Formerly Coursera Advisor</sub>
 
-[![CodeFactor](https://www.codefactor.io/repository/github/matiasagelvis/courseraadvisor/badge)](https://www.codefactor.io/repository/github/matiasagelvis/courseraadvisor)
+[![CodeFactor](https://www.codefactor.io/repository/github/matiasagelvis/starithm/badge)](https://www.codefactor.io/repository/github/matiasagelvis/starithm)
 
 [![Get the Coursera Advisor for Chromium](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/mPGKYBIR2uCP0ApchDXE.png)](https://chrome.google.com/webstore/detail/coursera-advisor/ijngbiifjeekcehmaigplbokedchligo?hl=en)
 
-Coursera Advisor is a no nonsense Chrome extension that uses the reviews of other students to give a more accurate rating to the course, to save you time and money.
+Starithm is a no nonsense Chrome extension that uses the reviews of other students to give a more accurate rating to the course, to save you time and money.
 
 If you have been browsing Coursera maybe you have thought `WOW! All courses have between 4.5 and 4.9 stars`, and they really do, but not all courses are that great, that's where Coursera Advisor comes in, with a single click you will know if the course is worth your time and effort, just check the new rating in parentheses with the ![Coursera Advisor logo](images/verified_16.png) to the left of the Coursera original score.
 
